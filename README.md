@@ -11,4 +11,4 @@ The project has been broken down into three portions:
 - Analysis of collinearity among independent variables
 - Application of machine learning theory by building several supervised models
 
-Any and all criticism of the author's work is welcome news.
+Any and all criticism of the author's work is welcome.
