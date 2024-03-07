@@ -1,5 +1,5 @@
 # Red Wine Quality
-An analysis of factors which determine the perceived quality of wine.
+An analysis of factors which determine the perceived quality of red wine.
 
 The purpose of this project is to apply machine learning theory to see if it is possible to build a reliable model for predicting wine quality. This will be my first project which involves the application of supervised machine learning and will incorporate some basic tuning of the models. 
 
